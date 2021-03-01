@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457038257009",
+    "firebase_url": "https://loginborrar.firebaseio.com",
+    "project_id": "loginborrar",
+    "storage_bucket": "loginborrar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457038257009:android:b7ac490e8d203d83adb4d0",
+        "android_client_info": {
+          "package_name": "com.example.fb_login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457038257009-sbm66ofi4lb2dvf2dp114e9g67qiedu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fb_login_test",
+            "certificate_hash": "693cef479fd9f0ec74910fdbcb8f2d138d0aca59"
+          }
+        },
+        {
+          "client_id": "457038257009-88v7chqqor2lnteavk17746gv1f4vaqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIr5w2nUHxNte0Jz4CIXYt3YODfoyEtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457038257009-88v7chqqor2lnteavk17746gv1f4vaqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
